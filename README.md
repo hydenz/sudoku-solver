@@ -1,5 +1,5 @@
 # Sudoku
-Resolvedor automático de sudoku do site (apenas firefox) [Geniol](https://www.geniol.com.br/logica/sudoku/)
+Resolvedor automático de sudoku do site [Geniol](https://www.geniol.com.br/logica/sudoku/)
 
 ## Executando o código
 
